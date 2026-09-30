@@ -1,3 +1,9 @@
+// AUTHOR :JEREMY GEDDES
+// DATE 9/30/2026
+//VERSION 2.0
+// PURPOSE: This script demonstrates array manipulation techniques in JavaScript
+
+
 let numbers = [11, 5, 8, 3, 25, 16, 31, 45, 14, 20]; // Declares the variable and creates the unsorted array
 console.log(numbers); // prints the array to the console 
 
