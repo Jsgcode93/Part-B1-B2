@@ -22,7 +22,7 @@ function linearSearch(array, target) {
     
     // loop through the array
     for (let i = 0; i < array.length; i++) {
-        console.log(`array[${i}]: ${array[i]}`);
+        console.log(`arraySearch[${i}]: ${arraySearch[i]}`);
         if (array[i] === target) {
             found = i;
             break;
