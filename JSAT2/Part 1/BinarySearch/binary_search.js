@@ -31,7 +31,7 @@ function binarySearch(searchArray, target){
     } else if (searchArray[mid] < target) { 
       start = mid + 1;
     } else {
-      end = mid - 1;
+      end = mid - 1; 
     }
     console.log(`Start: ${start}, End: ${end}`);
   }
