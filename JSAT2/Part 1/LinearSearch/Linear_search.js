@@ -7,7 +7,7 @@ const searchArray = [11, 22, 33, 44, 55, 66, 77, 88, 99];
 console.log(searchArray);
 
 // set the value we are searching 
-let key = 22;
+let key = 23;
 console.log(`key: ${key}`);
 
 // create the search function
